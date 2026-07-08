@@ -71,3 +71,4 @@ print (student.items())
 #loop through the dictionary
 for key ,value in student.items():
     print (key ,":",value)
+    
